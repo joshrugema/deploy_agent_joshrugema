@@ -4,7 +4,7 @@
 Student Attendance Tracker (`attendance_checker.py`), and cleans up safely if you press
 Ctrl+C / Ctrl+Z partway through a deployment. The Python application is never modified.
 
-**Video walkthrough:** _<add your video link here>_
+**Video walkthrough:** https://youtu.be/M5eLllnivn0
 
 ## Repository layout
 
